@@ -1,0 +1,7 @@
+{
+  "name": "Permis Moto",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
